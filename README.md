@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+# Hello World Project
+
+[![View Live](https://img.shields.io/badge/View-Live-brightgreen)](https://seanmacanas16.github.io/hello-world/)
+
+This is my first HTML & CSS project, deployed using GitHub Pages.
 <html>
   <head>
     <title>Hello World</title>
