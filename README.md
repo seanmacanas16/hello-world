@@ -1,22 +1,22 @@
-<!DOCTYPE HTML>
-<HTML>
-  <HEAD>
-    <TITLE>HELLO WORLD </TITLE>
-    <STYLE>
-    BODY {
-      BACKGROUND COLOR: #222;
-      COLOR: FFF;
-      FONT-FAMILY: APTOS;
-      TEXT ALIGN: CENTER;
-      PADDING TOP: 50X;
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+    <style>
+      body {
+        background-color: #222;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding-top: 50px;
       }
-      H1{
-      COLOR: #00FF88;
+      h1 {
+        color: #00ff88;
       }
-      </STYLE>
-  </HEAD>
-      <BODY>
-      <H1> HELLO WORLD </H1>
-      <P> NOW WITH CSS </P>
-      </BODY>
-</HTML>
+    </style>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <p>Now with CSS</p>
+  </body>
+</html>
